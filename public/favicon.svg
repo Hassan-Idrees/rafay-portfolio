@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+	<rect width="32" height="32" rx="8" fill="#0a0a0a"/>
+	<rect x="0.5" y="0.5" width="31" height="31" rx="7.5" fill="none" stroke="rgba(200,200,210,0.2)"/>
+	<text x="16" y="21" text-anchor="middle" font-family="system-ui, sans-serif" font-weight="700" font-size="14" letter-spacing="-1" fill="#d0d0d0">MR</text>
+</svg>

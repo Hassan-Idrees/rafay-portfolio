@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(200,200,210,0.08) transparent;
+}
+
+body {
+  background: #0a0a0a;
+  font-family: 'Outfit', system-ui, -apple-system, sans-serif;
+  color: #b8b8c0;
+}
+
+::placeholder { color: #505058 !important; }
+button:focus { outline: none; }
+
+@keyframes dotPulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.78); }
+}
